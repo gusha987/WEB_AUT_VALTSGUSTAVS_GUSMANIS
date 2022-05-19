@@ -1,5 +1,5 @@
 {
-  "name": "web_aut_karinaanna_lapina",
+  "WEB_AUT_VALTSGUSTAVS_GUSMANIS",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lapinak/WEB_AUT_karinaanna_lapina.git"
+    "url": "git+https://github.com/gusha987/WEB_AUT_VALTSGUSTAVS_GUSMANIS.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lapinak/WEB_AUT_karinaanna_lapina/issues"
+    "url": "https://github.com/gusha987/WEB_AUT_VALTSGUSTAVS_GUSMANIS/issues"
   },
-  "homepage": "https://github.com/lapinak/WEB_AUT_karinaanna_lapina#readme"
+  "homepage": "https://github.com/gusha987/WEB_AUT_VALTSGUSTAVS_GUSMANIS#readme"
 }
